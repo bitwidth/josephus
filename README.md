@@ -15,5 +15,7 @@
 Source: [Josephus Problem (Wikipedia)](https://en.wikipedia.org/wiki/Josephus_problem)
 
 
-##### Solution —
-###### [ **n** = *Number of people*, **k** = *starting from initial position, k<sup>th</sup> person is executed* ]
+##### Solutions —
+* 	[Solution, written in Python](./josephus.py)  
+*	[Solution by GeeksforGeeks](https://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/)
+
